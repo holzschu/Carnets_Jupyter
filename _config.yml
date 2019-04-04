@@ -58,7 +58,7 @@ features                                  :
     fontawesome_icon_name                 : box-open
 
   - title                                 : Available on TestFlight 
-    description                           : "Carnets is available on TestFlight: https://testflight.apple.com/join/yevwlUs1"
+    description                           : "Carnets is available on [TestFlight](https://testflight.apple.com/join/yevwlUs1)"
     fontawesome_icon_name                 : vial
 
   - title                                 : OpenSource

@@ -54,23 +54,21 @@ features                                  :
     fontawesome_icon_name                 : keyboard
 
   - title                                 : Install more packages
-    description                           : Add more Python packages with %pip (if they are pure Python)
+    description                           : Add more Python packages with %pip (if they are pure Python).
     fontawesome_icon_name                 : box-open
 
   - title                                 : Available on TestFlight 
-    description                           : "Carnets is available on <a href='https://testflight.apple.com/join/yevwlUs1'>TestFlight</a>"
+    description                           : "Carnets is available on <a href='https://testflight.apple.com/join/yevwlUs1'>TestFlight</a>."
     fontawesome_icon_name                 : vial
 
   - title                                 : OpenSource
-    description                           : "Carnets is entirely OpenSource: https://github.com/holzschu/Carnets"
+    description                           : "Carnets is entirely <a href='https://github.com/holzschu/Carnets'>OpenSource</a>, and released under the FreeBSD license."
     fontawesome_icon_name                 : lock-open
 
   - title                                 : Suggestion box
-    description                           : "Need more packages? Found a bug? Want to suggest a feature? Open an issue: https://github.com/holzschu/Carnets/issues"
+    description                           : "Need more packages? Found a bug? Want to suggest a feature? Open an <a href='https://github.com/holzschu/Carnets/issues'>issue</a>."
     fontawesome_icon_name                 : box-ballot
     
-    # TODO: change icons
-
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.

@@ -58,15 +58,15 @@ features                                  :
     fontawesome_icon_name                 : box-open
 
   - title                                 : Available on TestFlight 
-    description                           : Carnets is available on *TestFlight* [[https://testflight.apple.com/join/yevwlUs1]]
+    description                           : "Carnets is available on TestFlight: https://testflight.apple.com/join/yevwlUs1"
     fontawesome_icon_name                 : vial
 
   - title                                 : OpenSource
-    description                           : Carnets is entirely OpenSource: [[https://github.com/holzschu/Carnets]]
+    description                           : "Carnets is entirely OpenSource: https://github.com/holzschu/Carnets"
     fontawesome_icon_name                 : lock-open
 
   - title                                 : Suggestion box
-    description                           : Need more packages? Found a bug? Want to suggest a feature? Open an issue: [[https://github.com/holzschu/Carnets/issues]]
+    description                           : "Need more packages? Found a bug? Want to suggest a feature? Open an issue: https://github.com/holzschu/Carnets/issues"
     fontawesome_icon_name                 : box-ballot
     
     # TODO: change icons

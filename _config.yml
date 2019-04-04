@@ -67,7 +67,7 @@ features                                  :
 
   - title                                 : Suggestion box
     description                           : "Need more packages? Found a bug? Want to suggest a feature? Open an <a href='https://github.com/holzschu/Carnets/issues'>issue</a>."
-    fontawesome_icon_name                 : box-ballot
+    fontawesome_icon_name                 : envelope-open-text
     
   - title                                 : # New Feature Title
     description                           : # New Feature Description

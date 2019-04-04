@@ -35,7 +35,7 @@ features                                  :
 
   - title                                 : Run Jupyter notebooks anywhere
     description                           : The power of Jupyter notebooks. In your pocket. Anywhere. 
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : globe
     
   - title                                 : Standalone implementation
     description                           : Everything runs on your device. No need to setup a server, no need for an internet connection.
@@ -43,31 +43,31 @@ features                                  :
 
   - title                                 : All included
     description                           : Packages like Numpy, Matplotlib, Sympy are already installed. You're ready to edit notebooks.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : magic
 
   - title                                 : Plays well with others
     description                           : Carnets uses iOS 11 filesharing ability. You can store your notebooks in iCloud, access them using other apps, share them.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : share-alt
   
   - title                                 : Extended keyboard
     description                           : on iPads, you get an extended toolbar with basic actions on your keyboard.
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : keyboard
 
   - title                                 : Install more packages
     description                           : Add more Python packages with %pip (if they are pure Python)
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : box-open
 
   - title                                 : Available on TestFlight 
     description                           : Carnets is available on TestFlight: https://testflight.apple.com/join/yevwlUs1
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : vial
 
   - title                                 : OpenSource
     description                           : Carnets is entirely OpenSource: https://github.com/holzschu/Carnets
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : lock-open
 
   - title                                 : Suggestion box
     description                           : Need more packages? Found a bug? Want to suggest a feature? Open an issue on: https://github.com/holzschu/Carnets/issues
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : box-ballot
     
     # TODO: change icons
 

@@ -19,7 +19,7 @@ enable_smart_app_banner                   : false                               
 
 # Information About Yourself
 your_name                                 : Nicolas Holzschuch                                
-your_link                                 : https://github.com/holzschu/Carnets                     
+your_link                                 : https://github.com/holzschu/Carnets/
 your_city                                 : Grenoble                                
 email_address                             : carnets_jupyter@icloud.com
 facebook_username                         :                                           
@@ -58,7 +58,7 @@ features                                  :
     fontawesome_icon_name                 : box-open
 
   - title                                 : Available on TestFlight 
-    description                           : "Carnets is available on [TestFlight](https://testflight.apple.com/join/yevwlUs1)"
+    description                           : "Carnets is available on <a href='https://testflight.apple.com/join/yevwlUs1'>TestFlight</a>"
     fontawesome_icon_name                 : vial
 
   - title                                 : OpenSource

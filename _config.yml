@@ -7,13 +7,12 @@ playstore_link                            :                                     
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-app_icon                                  : assets/icon_1024.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : A standalone Jupyter notebooks implementation for iOS.
 
-enable_smart_app_banner                   : false                                      # Set to true to show a smart app banner at top of page on mobile devices.
-                                            # reset to true once actually on the AppStore
+enable_smart_app_banner                   :                                            # Set to true to show a smart app banner at top of page on mobile devices.
 
 
 
@@ -24,7 +23,7 @@ your_city                                 : Grenoble
 email_address                             : carnets_jupyter@icloud.com
 facebook_username                         :                                           
 instagram_username                        : 
-twitter_username                          : CJupyter
+twitter_username                          : carnets_jupyter
 github_username                           : holzschu
 youtube_username                          :
 

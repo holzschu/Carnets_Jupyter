@@ -41,7 +41,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : All included
-    description                           : Packages like Numpy, Matplotlib, Sympy are already installed. You're ready to edit notebooks.
+    description                           : Standard packages like Numpy, Matplotlib, Sympy and Pandas are already installed. You're ready to edit notebooks.
     fontawesome_icon_name                 : magic
 
   - title                                 : Plays well with others

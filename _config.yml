@@ -46,7 +46,7 @@ features                                  :
 
   - title                                 : Full directory access
     description                           : Get access to an entire directory, for notebooks that link to external data, or write to files.
-    fontawesome_icon_name                 : folder-open-o
+    fontawesome_icon_name                 : folder-open
   
   - title                                 : Extended keyboard
     description                           : You get an extended toolbar with basic actions on your keyboard.

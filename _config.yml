@@ -44,12 +44,12 @@ features                                  :
     description                           : Standard packages like Numpy, Matplotlib, Sympy and Pandas are already installed. You're ready to edit notebooks.
     fontawesome_icon_name                 : magic
 
-  - title                                 : Plays well with others
-    description                           : Carnets uses iOS 11 filesharing ability. You can store your notebooks in iCloud, access them using other apps, share them.
-    fontawesome_icon_name                 : share-alt
+  - title                                 : Full directory access
+    description                           : Get access to an entire directory, for notebooks that link to external data, or write to files.
+    fontawesome_icon_name                 : folder-open-o
   
   - title                                 : Extended keyboard
-    description                           : on iPads, you get an extended toolbar with basic actions on your keyboard.
+    description                           : You get an extended toolbar with basic actions on your keyboard.
     fontawesome_icon_name                 : keyboard
 
   - title                                 : Install more packages
@@ -57,7 +57,7 @@ features                                  :
     fontawesome_icon_name                 : box-open
 
   - title                                 : Available on TestFlight 
-    description                           : "Carnets is available on <a href='https://testflight.apple.com/join/yevwlUs1'>TestFlight</a>."
+    description                           : "Get the latest version on <a href='https://testflight.apple.com/join/yevwlUs1'>TestFlight</a>."
     fontawesome_icon_name                 : vial
 
   - title                                 : OpenSource
